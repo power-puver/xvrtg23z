@@ -19,3 +19,17 @@ p{
 	text-align: center;
 	font-size: 25px;
 }
+.aks{
+	position: absolute;
+	top:15%;
+	left: 2%;
+
+}
+.aks2{
+	position: absolute;
+	top:15%;
+	right: 2%;
+	width: 450px;
+	height: 800px;
+
+}
